@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060713871197",
+    "project_id": "narumanam-b199d",
+    "storage_bucket": "narumanam-b199d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060713871197:android:1cf24bb978ee2327f5dab4",
+        "android_client_info": {
+          "package_name": "com.example.narumanam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVKgoJ3omx8M2yjKn_HUC648P24eLUCGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
